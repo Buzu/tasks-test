@@ -15,3 +15,5 @@
 Route::resource('/resourcetype', 'ResourceTypeController');
 
 Route::resource('/team', 'TeamController');
+
+Route::resource('/resourcetask', 'ResourceTaskController');
